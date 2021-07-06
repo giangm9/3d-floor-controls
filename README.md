@@ -1,3 +1,5 @@
 # 3d-floor-controls
 
-Simple 3D floor controls like https://showroom.littleworkshop.fr/
+See https://giangm9.github.io/3d-floor-controls/
+
+Simple 3D floor controls likes https://showroom.littleworkshop.fr/
